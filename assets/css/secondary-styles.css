@@ -15,7 +15,7 @@
 }
 .secondary-content {
     width: 80%;
-    margin: auto;
+    margin: 0 auto;
     color: #024e76;
 }
 .secondary-content h3 {
@@ -25,9 +25,12 @@
 .secondary-content p {
     font-size: 16px;
     line-height: 1.5;
-    margin: 20px 0 20px 0;
+    margin: 20px 0;
 }
 .secondary-content ul {
-    margin: 25px 20px 25px 20px;
+    margin: 15px 20px; 
+}
+.secondary-content li {
     color: #39a6b2;
+    margin: 10px 0;
 }
